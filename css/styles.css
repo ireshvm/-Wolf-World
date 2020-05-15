@@ -1,0 +1,75 @@
+body {
+  background-color: #91b029;
+  margin: 0px;
+  text-align: center;
+  color: #5D5D5D;
+}
+
+image:hover {
+  background-color: grey;
+}
+h1 {
+  margin-top: 0px;
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #000000;
+}
+
+h3 {
+  color: #000000;
+}
+
+hr {
+  border: dotted;
+  color: #000000;
+  border-bottom: none;
+  width: 10%;
+  border-width: thick;
+}
+
+.top-container {
+  background-color: #64b2cd;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: gold;
+  padding-top: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.track {
+  width: 10%;
+}
+
+.wolf {
+  width: 15%;
+}
+
+.contact-me {}
+
+.font {
+  color: red;
+}
